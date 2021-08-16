@@ -1,10 +1,10 @@
-# polls-app
+## polls-app
 Simple polls app , with api in django and django rest framework and react
 
-# API
+## API
 Please check the api branch for the api in django and django rest-framework
 
-#FRONTEND
+## FRONTEND
 Please check the frontend branch for the frontend in react
 
 # Checkout Tutorial on this project
